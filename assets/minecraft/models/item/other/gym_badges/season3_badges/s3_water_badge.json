@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/other/gym_badges/season3_badges/s3_water_badge"
+  }
+}
