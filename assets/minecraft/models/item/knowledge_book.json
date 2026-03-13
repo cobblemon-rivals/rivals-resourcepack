@@ -1,10 +1,36 @@
 {
- "parent": "item/generated",
- "textures": {
-  "layer0": "item/knowledge_book"
- },
- 
- "overrides": [
-  {"predicate":{"custom_model_data":1},"model": "item/other/evcrystal/evcrystal"}
-]
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/knowledge_book"
+  },
+  
+  "overrides": [
+    {"predicate": {"custom_model_data":1},"model": "item/other/evcrystal/evcrystal"},
+    {"predicate": {"custom_model_data":9000}, "model": "item/crate/crate_keys/crystal_lightblue"},
+    {"predicate": {"custom_model_data":9001}, "model": "item/crate/crate_keys/epic"},
+    {"predicate": {"custom_model_data":9002}, "model": "item/crate/crate_keys/guilded_key_red"},
+    {"predicate": {"custom_model_data":9003}, "model": "item/crate/crate_keys/ultimate"},
+    {"predicate": {"custom_model_data":9004}, "model": "item/crate/crate_keys/medieval_key"},
+    {"predicate": {"custom_model_data":9005}, "model": "item/crate/crate_keys/medieval_key_with_outline"},
+    {"predicate": {"custom_model_data":9006}, "model": "item/crate/crate_keys/meme"},
+    {"predicate": {"custom_model_data":9007}, "model": "item/crate/crate_keys/og_trainer"},
+    {"predicate": {"custom_model_data":9008}, "model": "item/crate/crate_keys/rare"},
+    {"predicate": {"custom_model_data":9009}, "model": "item/crate/crate_keys/rival"},
+    {"predicate": {"custom_model_data":9010}, "model": "item/crate/crate_keys/shadow_key"},
+    {"predicate": {"custom_model_data":9011}, "model": "item/crate/crate_keys/mythic"},
+    {"predicate": {"custom_model_data":9012}, "model": "item/crate/crate_keys/vote"},
+    {"predicate": {"custom_model_data":9013}, "model": "item/crate/crate_keys/welcome"},
+    {"predicate": {"custom_model_data":9014}, "model": "item/crate/crate_keys/cruise_key"},
+    {"predicate": {"custom_model_data":9015}, "model": "item/crate/crate_keys/luxury_key"},
+    {"predicate": {"custom_model_data":9016}, "model": "item/crate/crate_keys/particle_key"},
+    {"predicate": {"custom_model_data":9017}, "model": "item/crate/crate_keys/crystal_key"},
+    {"predicate": {"custom_model_data":9018}, "model": "item/crate/crate_keys/ranked_silver_key"},
+    {"predicate": {"custom_model_data":9019}, "model": "item/crate/crate_keys/ranked_gold_key"},
+    {"predicate": {"custom_model_data":9020}, "model": "item/crate/crate_keys/ranked_epic_key"},
+    {"predicate": {"custom_model_data":9021}, "model": "item/crate/crate_keys/ranked_magical_key"},
+    {"predicate": {"custom_model_data":9022}, "model": "item/crate/crate_keys/ranked_legendary_key"},
+    {"predicate": {"custom_model_data":9023}, "model": "item/crate/crate_keys/halloween_key"},
+    {"predicate": {"custom_model_data":9024}, "model": "item/crate/crate_keys/jolly_key"},
+    {"predicate": {"custom_model_data":9025}, "model": "item/crate/crate_keys/glacial_key"}
+  ]
 }
