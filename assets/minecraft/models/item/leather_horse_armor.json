@@ -13,6 +13,9 @@
   {"predicate":{"custom_model_data":6},"model": "item/cosmetics/hats/top_hat"},
   {"predicate":{"custom_model_data":7},"model": "item/cosmetics/hats/knight_helmet"},
   {"predicate":{"custom_model_data":8},"model": "item/cosmetics/hats/witch_hat"},
+  {"predicate":{"custom_model_data":9},"model": "item/cosmetics/hats/carrot_helmet"},
+  {"predicate":{"custom_model_data":10},"model": "item/cosmetics/hats/mushroom_helmet"},
+  {"predicate":{"custom_model_data":11},"model": "item/cosmetics/hats/flower_helmet"},
 
   {"predicate":{"custom_model_data":500},"model": "item/cosmetics/hats/magikarp"},
   {"predicate":{"custom_model_data":501},"model": "item/cosmetics/hats/magikarp_shiny"},
