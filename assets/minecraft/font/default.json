@@ -552,6 +552,489 @@
             "ascent": 8,
             "height": 10,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/angry_face_with_horns.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/angry_face_with_symbols.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/astonished_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/clown_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/cold_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/confused_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/cowboy_hat_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/disappointed_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/disguised_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/dizzy_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/dotted_line_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/drooling_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/exploding_head.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/expressionless_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_blowing_a_kiss.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_in_clouds.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_savoring_food.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_screaming_in_fear.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_hand_over_mouth.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_monocle.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_raised_eyebrow.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_rolling_eyes.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_spiral_eyes.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_steam.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_tears_of_joy.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/face_with_tongue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/fearful_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/flushed_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/frowning_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/grimacing_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/grinning_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/grinning_face_with_big_eyes.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/grinning_face_with_sweat.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/grinning_squinting_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/heart_broken.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/heart_red.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/hot_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/loudly_crying_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/melting_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/nauseated_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/nerd_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/neutral_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/partying_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/pensive_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/pleading_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/pouting_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/relieved_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/rolling_on_the_floor_laughing.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/sad_but_relieved_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/saluting_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/shushing_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/slightly_smiling_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smiling_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smiling_face_with_halo.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smiling_face_with_heart_eyes.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smiling_face_with_hearts.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smiling_face_with_horns.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smiling_face_with_sunglasses.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/smirking_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/squinting_face_with_tongue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/star_struck.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/thinking_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/unamused_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/upside_down_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/vomiting_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/weary_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/winking_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/woozy_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/emojis/zany_face.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
         }
     ]
 }
