@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:vaporeon",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:vaporeon",
+      "model": "skinsanniversary2026:vaporeonanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/vaporeonanniversary2026/vaporeon_anniversary2026.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:vaporeon",
+      "model": "skinsanniversary2026:vaporeonanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/vaporeonanniversary2026/vaporeon_shiny_anniversary2026.png",
+      "layers": []
+    }
+  ]
+}

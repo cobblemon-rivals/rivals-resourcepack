@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:flareon",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:flareon",
+      "model": "skinsanniversary2026:flareonanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/flareonanniversary2026/flareon_anniversary2026.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:flareon",
+      "model": "skinsanniversary2026:flareonanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/flareonanniversary2026/flareon_shiny_anniversary2026.png",
+      "layers": []
+    }
+  ]
+}

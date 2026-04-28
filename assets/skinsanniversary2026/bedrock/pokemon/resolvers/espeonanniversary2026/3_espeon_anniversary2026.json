@@ -1,0 +1,39 @@
+{
+  "species": "cobblemon:espeon",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:espeon",
+      "model": "skinsanniversary2026:espeonanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/espeonanniversary2026/espeon_anniversary2026.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "skinsanniversary2026:textures/pokemon/espeonanniversary2026/espeon_emissive_anniversary2026.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:espeon",
+      "model": "skinsanniversary2026:espeonanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/espeonanniversary2026/espeon_shiny_anniversary2026.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "skinsanniversary2026:textures/pokemon/espeonanniversary2026/espeon_shiny_emissive_anniversary2026.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}
