@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:eevee",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:eevee",
+      "model": "skinsanniversary2026:eeveeanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/eeveeanniversary2026/eevee_anniversary2026.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "skin_anniversary2026"
+      ],
+      "poser": "cobblemon:eevee",
+      "model": "skinsanniversary2026:eeveeanniversary2026.geo",
+      "texture": "skinsanniversary2026:textures/pokemon/eeveeanniversary2026/eevee_shiny_anniversary2026.png",
+      "layers": []
+    }
+  ]
+}
