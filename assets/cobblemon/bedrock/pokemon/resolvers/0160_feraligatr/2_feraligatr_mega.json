@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:feraligatr",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "poser": "cobblemon:mega_feraligatr",
+      "model": "cobblemon:mega_feraligatr.geo",
+      "texture": "cobblemon:textures/pokemon/0160_feraligatr/mega_feraligatr.png"
+    },
+    {
+      "aspects": ["mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0160_feraligatr/mega_feraligatr_shiny.png"
+    }
+  ]
+}
+
