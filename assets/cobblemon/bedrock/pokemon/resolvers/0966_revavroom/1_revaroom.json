@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["summercrate"],
-      "poser": "cobblemon:revavroom",
+      "poser": "cobblemon:summer_revavroom",
       "model": "cobblemon:summer_revavroom.geo",
       "texture": "cobblemon:textures/pokemon/0966_revavroom/summer_revavroom.png",
       "layers": [
@@ -23,7 +23,7 @@
         {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/0500_emboar/mega_emboar_emmisive.png",
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/summer_revavroom_shiny_emissive.png",
           "translucent": false
         }
       ]
