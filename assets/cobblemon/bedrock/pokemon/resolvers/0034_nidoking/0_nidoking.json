@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:nidoking",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["bloodmoon"],
+      "poser": "cobblemon:nidoking",
+      "model": "cobblemon:bm_nidoking.geo",
+      "texture": "cobblemon:textures/pokemon/0034_nidoking/bm_nidoking.png"
+    },
+    {
+      "aspects": ["bloodmoon", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0034_nidoking/bm_nidoking.png"
+    }
+  ]
+}
