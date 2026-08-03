@@ -31,7 +31,7 @@
     {
       "aspects": ["shadowlegend"],
       "poser": "cobblemon:mew",
-      "model": "cobblemon:1.6_mew.geo",
+      "model": "cobblemon:mew_shadow.geo",
       "texture": "cobblemon:textures/pokemon/0151_mew/mew_shadow.png",
       "layers": []
     }
