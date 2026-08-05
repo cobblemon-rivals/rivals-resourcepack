@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_gen2"
+  }
+}

@@ -446,55 +446,55 @@
       "predicate": {
         "custom_model_data": 6100
       },
-      "model": "item/other/gym_badges/NewGymBadges/BugType/BugBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/bug_type/bug_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6101
       },
-      "model": "item/other/gym_badges/NewGymBadges/BugType/BugBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/bug_type/bug_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6102
       },
-      "model": "item/other/gym_badges/NewGymBadges/BugType/BugBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/bug_type/bug_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6103
       },
-      "model": "item/other/gym_badges/NewGymBadges/BugType/BugBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/bug_type/bug_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6110
       },
-      "model": "item/other/gym_badges/NewGymBadges/DarkType/DarkBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/dark_type/bug_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6111
       },
-      "model": "item/other/gym_badges/NewGymBadges/DarkType/DarkBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/dark_type/bug_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6120
       },
-      "model": "item/other/gym_badges/NewGymBadges/DragonType/DragonBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/dragon_type/dragon_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6121
       },
-      "model": "item/other/gym_badges/NewGymBadges/DragonType/DragonBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/dragon_type/dragon_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6122
       },
-      "model": "item/other/gym_badges/NewGymBadges/DragonType/DragonBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/dragon_type/dragon_badge_gen5"
     },
     {
       "predicate": {
@@ -506,151 +506,151 @@
       "predicate": {
         "custom_model_data": 6130
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6131
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6132
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6133
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6134
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6135
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6136
       },
-      "model": "item/other/gym_badges/NewGymBadges/ElectricType/ElectricBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6140
       },
-      "model": "item/other/gym_badges/NewGymBadges/ExtraBadges/OrangeIslands1"
+      "model": "item/other/gym_badges/new_gym_badges/extra_badges/orange_islands1"
     },
     {
       "predicate": {
         "custom_model_data": 6141
       },
-      "model": "item/other/gym_badges/NewGymBadges/ExtraBadges/OrangeIslands2"
+      "model": "item/other/gym_badges/new_gym_badges/extra_badges/orange_islands2"
     },
     {
       "predicate": {
         "custom_model_data": 6142
       },
-      "model": "item/other/gym_badges/NewGymBadges/ExtraBadges/OrangeIslands3"
+      "model": "item/other/gym_badges/new_gym_badges/extra_badges/orange_islands3"
     },
     {
       "predicate": {
         "custom_model_data": 6143
       },
-      "model": "item/other/gym_badges/NewGymBadges/ExtraBadges/OrangeIslands4"
+      "model": "item/other/gym_badges/new_gym_badges/extra_badges/orange_islands4"
     },
     {
       "predicate": {
         "custom_model_data": 6144
       },
-      "model": "item/other/gym_badges/NewGymBadges/ExtraBadges/TrioBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/extra_badges/trio_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6150
       },
-      "model": "item/other/gym_badges/NewGymBadges/FairyType/FairyBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/fairy_type/fairy_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6151
       },
-      "model": "item/other/gym_badges/NewGymBadges/FairyType/FairyBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/fairy_type/fairy_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6152
       },
-      "model": "item/other/gym_badges/NewGymBadges/FairyType/FairyBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/fairy_type/fairy_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6160
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6161
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeCustom2"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_custom2"
     },
     {
       "predicate": {
         "custom_model_data": 6162
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6163
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6164
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6165
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6166
       },
-      "model": "item/other/gym_badges/NewGymBadges/FightingType/FightingBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/fighting_type/fighting_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6170
       },
-      "model": "item/other/gym_badges/NewGymBadges/FireType/FireBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/fire_type/fire_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6171
       },
-      "model": "item/other/gym_badges/NewGymBadges/FireType/FireBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/fire_type/fire_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6172
       },
-      "model": "item/other/gym_badges/NewGymBadges/FireType/FireBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/fire_type/fire_badge_gen3"
     },
     {
       "predicate": {
@@ -662,25 +662,25 @@
       "predicate": {
         "custom_model_data": 6180
       },
-      "model": "item/other/gym_badges/NewGymBadges/FlyingType/FlyingBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/flying_type/flying_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6181
       },
-      "model": "item/other/gym_badges/NewGymBadges/FlyingType/FlyingBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/flying_type/flying_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6182
       },
-      "model": "item/other/gym_badges/NewGymBadges/FlyingType/FlyingBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/flying_type/flying_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6183
       },
-      "model": "item/other/gym_badges/NewGymBadges/FlyingType/FlyingBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/flying_type/flying_badge_gen5"
     },
     {
       "predicate": {
@@ -692,73 +692,73 @@
       "predicate": {
         "custom_model_data": 6190
       },
-      "model": "item/other/gym_badges/NewGymBadges/GhostType/GhostBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6191
       },
-      "model": "item/other/gym_badges/NewGymBadges/GhostType/GhostBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6192
       },
-      "model": "item/other/gym_badges/NewGymBadges/GhostType/GhostBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6193
       },
-      "model": "item/other/gym_badges/NewGymBadges/GhostType/GhostBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6200
       },
-      "model": "item/other/gym_badges/NewGymBadges/GrassType/GrassBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/grass_type/grass_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6201
       },
-      "model": "item/other/gym_badges/NewGymBadges/GrassType/GrassBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/grass_type/grass_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6202
       },
-      "model": "item/other/gym_badges/NewGymBadges/GrassType/GrassBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/grass_type/grass_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6203
       },
-      "model": "item/other/gym_badges/NewGymBadges/GrassType/GrassBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/grass_type/grass_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6210
       },
-      "model": "item/other/gym_badges/NewGymBadges/GroundType/GroundBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/ground_type/ground_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6211
       },
-      "model": "item/other/gym_badges/NewGymBadges/GroundType/GroundBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/ground_type/ground_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6212
       },
-      "model": "item/other/gym_badges/NewGymBadges/GroundType/GroundBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/ground_type/ground_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6220
       },
-      "model": "item/other/gym_badges/NewGymBadges/GymLeaders/ChampionBadgeJohto"
+      "model": "item/other/gym_badges/new_gym_badges/gym_leaders/champion_badge_johto"
     },
     {
       "predicate": {
@@ -770,211 +770,211 @@
       "predicate": {
         "custom_model_data": 6222
       },
-      "model": "item/other/gym_badges/NewGymBadges/GymLeaders/ChampionBadgeUnova"
+      "model": "item/other/gym_badges/new_gym_badges/gym_leaders/champion_badge_unova"
     },
     {
       "predicate": {
         "custom_model_data": 6230
       },
-      "model": "item/other/gym_badges/NewGymBadges/IceType/IceBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/ice_type/ice_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6231
       },
-      "model": "item/other/gym_badges/NewGymBadges/IceType/IceBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/ice_type/ice_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6232
       },
-      "model": "item/other/gym_badges/NewGymBadges/IceType/IceBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/ice_type/ice_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6233
       },
-      "model": "item/other/gym_badges/NewGymBadges/IceType/IceBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/ice_type/ice_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6234
       },
-      "model": "item/other/gym_badges/NewGymBadges/IceType/IceBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/ice_type/ice_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6235
       },
-      "model": "item/other/gym_badges/NewGymBadges/IceType/IceBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/ice_type/ice_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6240
       },
-      "model": "item/other/gym_badges/NewGymBadges/NormalType/NormalBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/normal_type/normal_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6241
       },
-      "model": "item/other/gym_badges/NewGymBadges/NormalType/NormalBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/normal_type/normal_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6242
       },
-      "model": "item/other/gym_badges/NewGymBadges/NormalType/NormalBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/normal_type/normal_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6243
       },
-      "model": "item/other/gym_badges/NewGymBadges/NormalType/NormalBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/normal_type/normal_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6244
       },
-      "model": "item/other/gym_badges/NewGymBadges/NormalType/NormalBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/normal_type/normal_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6250
       },
-      "model": "item/other/gym_badges/NewGymBadges/PoisonType/PoisonBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/poison_type/poison_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6251
       },
-      "model": "item/other/gym_badges/NewGymBadges/PoisonType/PoisonBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/poison_type/poison_badge_gen5"
     },
     {
       "predicate": {
         "custom_model_data": 6252
       },
-      "model": "item/other/gym_badges/NewGymBadges/PoisonType/PoisonBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/poison_type/poison_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6260
       },
-      "model": "item/other/gym_badges/NewGymBadges/PsychicType/PsychicBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/psychic_type/psychic_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6261
       },
-      "model": "item/other/gym_badges/NewGymBadges/PsychicType/PsychicBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/psychic_type/psychic_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6262
       },
-      "model": "item/other/gym_badges/NewGymBadges/PsychicType/PsychicBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/psychic_type/psychic_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6263
       },
-      "model": "item/other/gym_badges/NewGymBadges/PsychicType/PsychicBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/psychic_type/psychic_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6264
       },
-      "model": "item/other/gym_badges/NewGymBadges/PsychicType/PsychicBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/psychic_type/psychic_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6270
       },
-      "model": "item/other/gym_badges/NewGymBadges/RockType/RockBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6271
       },
-      "model": "item/other/gym_badges/NewGymBadges/RockType/RockBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_gen1"
     },
     {
       "predicate": {
         "custom_model_data": 6272
       },
-      "model": "item/other/gym_badges/NewGymBadges/RockType/RockBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6273
       },
-      "model": "item/other/gym_badges/NewGymBadges/RockType/RockBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6274
       },
-      "model": "item/other/gym_badges/NewGymBadges/RockType/RockBadgeGen6"
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_gen6"
     },
     {
       "predicate": {
         "custom_model_data": 6275
       },
-      "model": "item/other/gym_badges/NewGymBadges/RockType/RockBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6280
       },
-      "model": "item/other/gym_badges/NewGymBadges/SteelType/SteelBadgeGen2"
+      "model": "item/other/gym_badges/new_gym_badges/steel_type/steel_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6281
       },
-      "model": "item/other/gym_badges/NewGymBadges/SteelType/SteelBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/steel_type/steel_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6282
       },
-      "model": "item/other/gym_badges/NewGymBadges/SteelType/SteelBadgeGen9"
+      "model": "item/other/gym_badges/new_gym_badges/steel_type/steel_badge_gen9"
     },
     {
       "predicate": {
         "custom_model_data": 6290
       },
-      "model": "item/other/gym_badges/NewGymBadges/WaterType/WaterBadgeCustom1"
+      "model": "item/other/gym_badges/new_gym_badges/water_type/water_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6291
       },
-      "model": "item/other/gym_badges/NewGymBadges/WaterType/WaterBadgeCustom2"
+      "model": "item/other/gym_badges/new_gym_badges/water_type/water_badge_custom2"
     },
     {
       "predicate": {
         "custom_model_data": 6292
       },
-      "model": "item/other/gym_badges/NewGymBadges/WaterType/WaterBadgeGen1"
+      "model": "item/other/gym_badges/new_gym_badges/water_type/water_badge_gen2"
     },
     {
       "predicate": {
         "custom_model_data": 6293
       },
-      "model": "item/other/gym_badges/NewGymBadges/WaterType/WaterBadgeGen3"
+      "model": "item/other/gym_badges/new_gym_badges/water_type/water_badge_gen3"
     },
     {
       "predicate": {
         "custom_model_data": 6294
       },
-      "model": "item/other/gym_badges/NewGymBadges/WaterType/WaterBadgeGen4"
+      "model": "item/other/gym_badges/new_gym_badges/water_type/water_badge_gen4"
     },
     {
       "predicate": {
         "custom_model_data": 6295
       },
-      "model": "item/other/gym_badges/NewGymBadges/WaterType/WaterBadgeGen5"
+      "model": "item/other/gym_badges/new_gym_badges/water_type/water_badge_gen5"
     },
     {
       "predicate": {

@@ -6,28 +6,49 @@
       "aspects": ["shadowlegend", "teal-mask"],
       "poser": "cobblemon:ogerpon",
       "model": "cobblemon:ogerpon_teal.geo",
-      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_teal.png"
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_teal_shadow.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_teal_emissive_shadow.png"
+        }
+      ]
     },
     {
       "aspects": ["shadowlegend","hearthflame-mask"],
       "poser": "cobblemon:ogerpon",
       "model": "cobblemon:ogerpon_hearthflame.geo",
-      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_hearthflame.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_hearthflame_shadow.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_hearthflame_emissive_shadow.png"
+        }
+      ]
     },
     {
       "aspects": ["shadowlegend","wellspring-mask"],
       "poser": "cobblemon:ogerpon",
       "model": "cobblemon:ogerpon_wellspring.geo",
-      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_wellspring.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_wellspring_shadow.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_wellspring_emissive_shadow.png"
+        }
+      ]
     },
     {
       "aspects": ["shadowlegend","cornerstone-mask"],
       "poser": "cobblemon:ogerpon",
       "model": "cobblemon:ogerpon_cornerstone.geo",
-      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_cornerstone.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_cornerstone_shadow.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_cornerstone_emissive_shadow.png"
+        }
+      ]
     }
   ]
 }

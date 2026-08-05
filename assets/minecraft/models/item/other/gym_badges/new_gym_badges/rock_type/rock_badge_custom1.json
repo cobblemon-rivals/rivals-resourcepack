@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_custom1"
+  }
+}

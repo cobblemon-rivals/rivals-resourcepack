@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:starmie",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "model": "cobblemon:mega_starmie.geo",
+      "poser": "cobblemon:starmie",
+      "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie_shiny_emissive.png"
+        }
+      ]
+    }
+  ]
+}
