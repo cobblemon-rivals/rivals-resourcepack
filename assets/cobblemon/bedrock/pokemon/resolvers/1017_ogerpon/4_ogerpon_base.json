@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["shadowlegend", "teal-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_teal",
       "model": "cobblemon:ogerpon_teal.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_teal_shadow.png",
       "layers": [
@@ -16,7 +16,7 @@
     },
     {
       "aspects": ["shadowlegend","hearthflame-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_fire",
       "model": "cobblemon:ogerpon_hearthflame.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_hearthflame_shadow.png",
       "layers": [
@@ -28,7 +28,7 @@
     },
     {
       "aspects": ["shadowlegend","wellspring-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_water",
       "model": "cobblemon:ogerpon_wellspring.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_wellspring_shadow.png",
       "layers": [
@@ -40,7 +40,7 @@
     },
     {
       "aspects": ["shadowlegend","cornerstone-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_rock",
       "model": "cobblemon:ogerpon_cornerstone.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_cornerstone_shadow.png",
       "layers": [

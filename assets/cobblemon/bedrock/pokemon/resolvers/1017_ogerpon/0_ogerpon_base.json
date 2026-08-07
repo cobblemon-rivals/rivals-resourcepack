@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["teal-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_teal",
       "model": "cobblemon:ogerpon_teal.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_teal.png"
     },

@@ -5,7 +5,7 @@
     {
       "aspects": ["mega"],
       "model": "cobblemon:mega_starmie.geo",
-      "poser": "cobblemon:starmie",
+      "poser": "cobblemon:starmie_mega",
       "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie.png",
       "layers": [
         {

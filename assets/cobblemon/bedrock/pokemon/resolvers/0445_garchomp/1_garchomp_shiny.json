@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:garchomp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0445_garchomp/garchomp_shiny.png"
+    }
+  ]
+}

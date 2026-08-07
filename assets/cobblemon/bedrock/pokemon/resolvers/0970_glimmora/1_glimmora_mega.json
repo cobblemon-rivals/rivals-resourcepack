@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:glimmora",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "model": "cobblemon:glimmora_mega.geo",
+      "poser": "cobblemon:glimmora_mega",
+      "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_mega.png"
+    },
+    {
+      "aspects": ["mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_mega_shiny.png"
+    }
+  ]
+}
