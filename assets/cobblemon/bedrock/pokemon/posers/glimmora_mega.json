@@ -9,7 +9,7 @@
       "isBattle": false,
       "animations": [
         "q.look('head')",
-        "q.bedrock('starmie', 'ground_idle')"
+        "q.bedrock('glimmora_mega', 'ground_idle')"
       ]
     },
     "battle-standing": {
@@ -17,14 +17,7 @@
       "isBattle": true,
       "animations": [
         "q.look('head')",
-        "q.bedrock('starmie', 'battle_idle')"
-      ]
-    },
-    "float": {
-      "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('starmie', 'ground_walk')"
+        "q.bedrock('glimmora_mega', 'battle_idle')"
       ]
     },
     "walking": {
@@ -32,7 +25,7 @@
       "isBattle": false,
       "animations": [
         "q.look('head')",
-        "q.bedrock('starmie', 'ground_walk')"
+        "q.bedrock('glimmora_mega', 'ground_walk')"
       ]
     }
   }

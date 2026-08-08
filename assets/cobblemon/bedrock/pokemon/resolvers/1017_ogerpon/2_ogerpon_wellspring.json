@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["wellspring-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_water",
       "model": "cobblemon:ogerpon_wellspring.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_wellspring.png"
     },

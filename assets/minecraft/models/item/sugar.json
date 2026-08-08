@@ -504,6 +504,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6124
+      },
+      "model": "item/other/gym_badges/new_gym_badges/dragon_type/dragon_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6130
       },
       "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_custom1"
@@ -546,6 +552,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6137
+      },
+      "model": "item/other/gym_badges/new_gym_badges/electric_type/electric_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6140
       },
       "model": "item/other/gym_badges/new_gym_badges/extra_badges/orange_islands1"
@@ -576,6 +588,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6145
+      },
+      "model": "item/other/gym_badges/new_gym_badges/extra_badges/trio_badge_custom1"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6150
       },
       "model": "item/other/gym_badges/new_gym_badges/fairy_type/fairy_badge_custom1"
@@ -591,6 +609,12 @@
         "custom_model_data": 6152
       },
       "model": "item/other/gym_badges/new_gym_badges/fairy_type/fairy_badge_gen9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6153
+      },
+      "model": "item/other/gym_badges/new_gym_badges/fairy_type/fairy_badge_custom2"
     },
     {
       "predicate": {
@@ -714,6 +738,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6194
+      },
+      "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6200
       },
       "model": "item/other/gym_badges/new_gym_badges/grass_type/grass_badge_gen1"
@@ -753,6 +783,12 @@
         "custom_model_data": 6212
       },
       "model": "item/other/gym_badges/new_gym_badges/ground_type/ground_badge_gen9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6213
+      },
+      "model": "item/other/gym_badges/new_gym_badges/ground_type/ground_badge_custom1"
     },
     {
       "predicate": {
@@ -855,6 +891,12 @@
         "custom_model_data": 6252
       },
       "model": "item/other/gym_badges/new_gym_badges/poison_type/poison_badge_gen9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6253
+      },
+      "model": "item/other/gym_badges/new_gym_badges/poison_type/poison_badge_custom1"
     },
     {
       "predicate": {

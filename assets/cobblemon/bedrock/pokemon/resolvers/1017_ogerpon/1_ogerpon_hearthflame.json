@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["hearthflame-mask"],
-      "poser": "cobblemon:ogerpon",
+      "poser": "cobblemon:ogerpon_fire",
       "model": "cobblemon:ogerpon_hearthflame.geo",
       "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_hearthflame.png"
     },

@@ -3,17 +3,12 @@
   "order": 1,
   "variations": [
     {
-      "aspects": ["summercrate"],
-      "poser": "cobblemon:gimmighoul_summer",
-      "model": "cobblemon:gimmighoul_summer.geo",
-      "texture": "cobblemon:textures/pokemon/summercrate/gimmighoul_summer.png",
-      "layers": []
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_chest_shiny.png"
     },
     {
-      "aspects": ["summercrate", "shiny"],
-      "texture": "cobblemon:textures/pokemon/summercrate/gimmighoul_summer_shiny.png",
-      "layers": [
-      ]
+      "aspects": ["roaming", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_roaming_shiny.png"
     }
   ]
 }

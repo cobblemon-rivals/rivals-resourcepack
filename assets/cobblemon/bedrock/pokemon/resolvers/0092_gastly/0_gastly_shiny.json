@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:gastly",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0092_gastly/gastly_shiny.png"
+    }
+  ]
+}

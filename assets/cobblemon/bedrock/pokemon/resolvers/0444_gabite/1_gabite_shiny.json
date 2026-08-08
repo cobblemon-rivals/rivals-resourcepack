@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:gabite",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0444_gabite/gabite_shiny.png"
+    }
+  ]
+}
