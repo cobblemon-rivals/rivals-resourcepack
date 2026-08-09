@@ -468,15 +468,21 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6104
+      },
+      "model": "item/other/gym_badges/new_gym_badges/bug_type/bug_badge_custom1"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6110
       },
-      "model": "item/other/gym_badges/new_gym_badges/dark_type/bug_badge_custom1"
+      "model": "item/other/gym_badges/new_gym_badges/dark_type/dark_badge_custom1"
     },
     {
       "predicate": {
         "custom_model_data": 6111
       },
-      "model": "item/other/gym_badges/new_gym_badges/dark_type/bug_badge_gen9"
+      "model": "item/other/gym_badges/new_gym_badges/dark_type/dark_badge_gen9"
     },
     {
       "predicate": {
