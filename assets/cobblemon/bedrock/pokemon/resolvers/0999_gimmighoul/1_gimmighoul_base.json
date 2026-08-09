@@ -9,6 +9,18 @@
     {
       "aspects": ["roaming", "shiny"],
       "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_roaming_shiny.png"
+    },
+    {
+      "aspects": ["summercrate"],
+      "texture": "cobblemon:textures/pokemon/summercrate/gimmighoul_summer.png",
+      "poser": "cobblemon:gimmighoul",
+      "model": "cobblemon:gimmighoul_summer.geo"
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/gimmighoul_summer_shiny.png",
+      "poser": "cobblemon:gimmighoul",
+      "model": "cobblemon:gimmighoul_summer.geo"
     }
   ]
 }
