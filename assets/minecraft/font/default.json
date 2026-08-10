@@ -530,28 +530,28 @@
             "file": "cobblemonrivalsgui:gui/gym_badges/e4_flying_water.png",
             "ascent": 8,
             "height": 10,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/gym_badges/e4_ghost_fairy.png",
             "ascent": 8,
             "height": 10,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/gym_badges/e4_grass_fire.png",
             "ascent": 8,
             "height": 10,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/gym_badges/e4_steel_dragon.png",
             "ascent": 8,
             "height": 10,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
@@ -580,6 +580,13 @@
             "ascent": 8,
             "height": 10,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/champion_s5.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
         },
         {
             "type": "bitmap",
