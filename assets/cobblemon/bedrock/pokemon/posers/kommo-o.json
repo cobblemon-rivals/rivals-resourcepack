@@ -38,7 +38,7 @@
       "poseTypes": ["WALK"],
       "animations": [
         "q.look('head')",
-        "q.bedrock('kommo-o', 'ground_walk')"
+        "q.bedrock('kommo-o', 'ground_idle')"
       ]
     },
     "float": {
@@ -52,7 +52,7 @@
       "poseTypes": ["SWIM"],
       "animations": [
         "q.look('head')",
-        "q.bedrock('kommo-o', 'ground_walk')"
+        "q.bedrock('kommo-o', 'ground_idle')"
       ]
     }
   }

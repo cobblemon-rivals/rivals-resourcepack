@@ -10,6 +10,16 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('ogerpon_fire', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('ogerpon_fire', 'blink')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ogerpon_fire', 'sleep')"
       ]
     },
     "battle-standing": {
@@ -25,6 +35,9 @@
       "isBattle": false,
       "animations": [
         "q.bedrock('ogerpon_fire', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('ogerpon_fire', 'blink')"
       ]
     }
   }

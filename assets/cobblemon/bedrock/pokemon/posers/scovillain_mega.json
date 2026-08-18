@@ -1,0 +1,52 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [0.0, 0.0, 0.0],
+  "profileScale": 0.8,
+  "profileTranslation": [0.0, 0.0, 0.0],
+  "animations": {
+    "cry": "q.bedrock_stateful('scovillain_mega', 'cry')",
+    "recoil": "q.bedrock_stateful('scovillain_mega', 'recoil')"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scovillain_mega', 'ground_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('scovillain_mega', 'blink')",
+      "q.bedrock_quirk('scovillain_mega', 'blink2')"
+    ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scovillain_mega', 'sleep')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scovillain_mega', 'battle_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('scovillain_mega', 'blink')",
+      "q.bedrock_quirk('scovillain_mega', 'blink2')"
+    ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scovillain_mega', 'ground_walk')"
+      ],
+     "quirks": ["q.bedrock_quirk('scovillain_mega', 'blink')",
+      "q.bedrock_quirk('scovillain_mega', 'blink2')"
+    ]
+    }
+  }
+}

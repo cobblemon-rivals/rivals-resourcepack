@@ -3,13 +3,33 @@
   "portraitTranslation": [0.05, 0.9, 0.0],
   "profileScale": 0.8,
   "profileTranslation": [-0.1, 0.9, 0.0],
+  "animations": {
+    "cry": "q.bedrock_stateful('starmie', 'cry')"
+  },
   "poses": {
     "standing": {
-      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "poseTypes": ["STAND", "NONE"],
       "isBattle": false,
+      "isTouchingWater": false,
+      "isUnderWater": false,
       "animations": [
         "q.look('head')",
         "q.bedrock('starmie', 'ground_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('starmie', 'sleep')"
+      ]
+    },
+    "portrait": {
+      "poseTypes": ["PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('starmie', 'water_idle')"
       ]
     },
     "battle-standing": {
@@ -21,15 +41,42 @@
       ]
     },
     "float": {
-      "poseTypes": ["FLOAT"],
+      "poseTypes": ["FLOAT", "STAND"],
+      "isUnderWater": true,
       "animations": [
         "q.look('head')",
-        "q.bedrock('starmie', 'ground_walk')"
+        "q.bedrock('starmie', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM", "WALK"],
+       "isUnderWater": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('starmie', 'water_swim')"
+      ]
+      },
+    "surface-swim": {
+      "poseTypes": ["SWIM", "WALK"],
+       "isTouchingWater": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('starmie', 'surfacewater_swim')"
+      ]
+      },
+    "swsurface-idle": {
+      "poseTypes": ["FLOAT", "STAND"],
+       "isTouchingWater": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('starmie', 'surfacewater_idle')"
       ]
     },
     "walking": {
       "poseTypes": ["WALK"],
       "isBattle": false,
+      "isTouchingWater": false,
+      "isUnderWater": false,
       "animations": [
         "q.look('head')",
         "q.bedrock('starmie', 'ground_walk')"

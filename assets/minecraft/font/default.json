@@ -544,7 +544,7 @@
             "file": "cobblemonrivalsgui:gui/gym_badges/e4_grass_fire.png",
             "ascent": 8,
             "height": 10,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
