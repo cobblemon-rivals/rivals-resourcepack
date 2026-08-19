@@ -3,6 +3,11 @@
   "portraitTranslation": [0.05, 0.9, 0.0],
   "profileScale": 0.8,
   "profileTranslation": [-0.1, 0.9, 0.0],
+  "animations": {
+	"physical": "q.bedrock_stateful('excadrill_mega', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_stateful('excadrill_mega', 'special', q.curve('symmetrical_wide'))",
+	"status": "q.bedrock_stateful('excadrill_mega', 'status', look, q.curve('symmetrical_wide'))"
+  },
   "poses": {
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
@@ -10,6 +15,16 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('excadrill_mega', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('excadrill_mega', 'blink')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('excadrill_mega', 'sleep')"
       ]
     },
     "battle-standing": {
@@ -18,6 +33,9 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('excadrill_mega', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('excadrill_mega', 'blink')"
       ]
     },
     "walking": {
@@ -26,6 +44,9 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('excadrill_mega', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('excadrill_mega', 'blink')"
       ]
     }
   }

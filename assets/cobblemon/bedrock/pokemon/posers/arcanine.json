@@ -5,24 +5,60 @@
   "profileTranslation": [0.14, 0.92, 0.0],
   "rootBone": "arcanine",
   "animations": {
-    "cry": "q.bedrock_stateful('arcanine', 'cry')"
+    "cry": "q.bedrock_stateful('arcanine', 'cry')",
+    "recoil": "q.bedrock_stateful('arcanine', 'recoil')"
   },
   "poses": {
     "battle-standing": {
       "poseName": "battle-standing",
-      "poseTypes": ["STAND"],
+      "poseTypes": ["STAND", "WALK"],
       "isBattle": true,
       "animations": ["q.look('head')", "q.bedrock('arcanine', 'battle_idle')"],
       "quirks": ["q.bedrock_quirk('arcanine', 'blink')"]
     },
-	"standing": {
-      "poseTypes": ["STAND", "NONE", "FLOAT", "PORTRAIT", "PROFILE"],
+	  "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
+      "isTouchingWater": false,
       "animations": ["q.look('head')", "q.bedrock('arcanine', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('arcanine', 'blink')"]
     },
+    "surface-swim": {
+      "poseTypes": ["SWIM", "WALK"],
+       "isTouchingWater": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arcanine', 'water_surface_swim')"
+      ]
+      },
+    "swsurface-idle": {
+      "poseTypes": ["FLOAT", "STAND"],
+       "isTouchingWater": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arcanine', 'water_surface_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arcanine', 'sleep')"
+      ]
+    },
+    "wild_sleep": {
+      "poseTypes": ["SLEEP"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arcanine', 'wild_sleep')"
+      ]
+    },
     "walking": {
-      "poseTypes": ["WALK", "SWIM"],
+      "poseTypes": ["WALK"],
+      "isBattle": false,
+      "isTouchingWater": false,
       "animations": [
         "q.look('head')",
         "q.bedrock('arcanine', 'ground_walk')"

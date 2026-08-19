@@ -3,13 +3,23 @@
   "order": 1,
   "variations": [
     {
-      "aspects": ["hisuian", "summercrate"],
+      "aspects": ["hisuian"],
+      "poser": "cobblemon:electrode_hisuian",
+      "model": "cobblemon:electrode_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian.png"
+    },
+    {
+      "aspects": ["hisuian", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_shiny.png"
+    },
+    {
+      "aspects": ["summercrate", "hisuian"],
       "poser": "cobblemon:electrode_hisuian",
       "model": "cobblemon:summer_electrode_hisuian.geo",
       "texture": "cobblemon:textures/pokemon/0101_electrode/summer_hisuian_electrode.png"
     },
     {
-      "aspects": ["hisuian", "summercrate", "shiny"],
+      "aspects": ["summercrate", "hisuian", "shiny"],
       "texture": "cobblemon:textures/pokemon/0101_electrode/summer_hisuian_electrode_shiny.png"
     }
   ]

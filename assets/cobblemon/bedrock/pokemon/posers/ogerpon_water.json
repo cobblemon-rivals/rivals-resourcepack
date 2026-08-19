@@ -10,6 +10,16 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('ogerpon_water', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('ogerpon_water', 'blink')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ogerpon_water', 'sleep')"
       ]
     },
     "battle-standing": {
@@ -25,6 +35,9 @@
       "isBattle": false,
       "animations": [
         "q.bedrock('ogerpon_water', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('ogerpon_water', 'blink')"
       ]
     }
   }

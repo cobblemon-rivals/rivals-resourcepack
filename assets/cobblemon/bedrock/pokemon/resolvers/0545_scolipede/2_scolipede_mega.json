@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:scolipede",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "poser": "cobblemon:scolipede_mega",
+      "model": "cobblemon:scolipede_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0545_scolipede/scolipede_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "mega",
+        "shiny"
+      ],
+      "poser": "cobblemon:scolipede_mega",
+      "model": "cobblemon:scolipede_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0545_scolipede/scolipede_mega_shiny.png"
+    }
+  ]
+}

@@ -7,14 +7,9 @@
   "poses": {
     "standing": {
       "poseTypes": [
-        "STAND",
-        "PROFILE",
-        "PORTRAIT",
-        "NONE"
+        "STAND", "PROFILE", "PORTRAIT", "NONE"
       ],
       "isBattle": false,
-      "isTouchingWater": false,
-      "isUnderWater": false,
       "animations": [
         "q.look('head')",
         "q.bedrock('mega_meganium', 'ground_idle')"
@@ -23,8 +18,6 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "isTouchingWater": false,
-      "isUnderWater": false,
       "animations": [
         "q.look('head')",
         "q.bedrock('mega_meganium', 'battle_idle')"
@@ -32,7 +25,6 @@
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "isTouchingWater": false,
       "animations": [
         "q.look('head')",
         "q.bedrock('mega_meganium', 'ground_walk')"
