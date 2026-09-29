@@ -1032,6 +1032,42 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6400
+      },
+      "model": "item/other/gym_badges/new_gym_badges/elite4/champion_s5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6500
+      },
+      "model": "item/other/gym_badges/new_gym_badges/elite4/e4_flying_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6501
+      },
+      "model": "item/other/gym_badges/new_gym_badges/elite4/e4_ghost_fairy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6502
+      },
+      "model": "item/other/gym_badges/new_gym_badges/elite4/e4_grass_electric"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6503
+      },
+      "model": "item/other/gym_badges/new_gym_badges/elite4/e4_grass_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6504
+      },
+      "model": "item/other/gym_badges/new_gym_badges/elite4/e4_steel_dragon"
+    },
+    {
+      "predicate": {
         "custom_model_data": 7000
       },
       "model": "item/crate/crates_sprites/shiny_ticket_purple"

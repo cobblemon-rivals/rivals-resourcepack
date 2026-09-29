@@ -555,7 +555,7 @@
         },
         {
             "type": "bitmap",
-            "file": "cobblemonrivalsgui:gui/gym_badges/elite1_icon.png",
+            "file": "cobblemonrivalsgui:gui/gym_badges/e4_grass_electric.png",
             "ascent": 8,
             "height": 10,
             "chars": [""]
