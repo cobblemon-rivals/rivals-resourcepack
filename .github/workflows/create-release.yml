@@ -39,29 +39,29 @@ jobs:
           echo "IS_PRERELEASE=true" >> $GITHUB_ENV
         fi
     
-    - name: Create Resource Pack Archive
-      uses: thedoctor0/zip-release@0.7.5
+    - name: Optimize Resource Pack with PackSquash
+      uses: ComunidadAylas/PackSquash-action@v4
       with:
-        type: 'zip'
-        filename: '${{ env.RELEASE_FILE }}'
-        exclusions: |
-          *.git*
-          *.github*
-          *node_modules*
-          *.editorconfig
-          *.gitignore
-          *.md
-          README*
-          LICENSE*
-          .DS_Store
-          Thumbs.db
-    
-    - name: Verify archive contents and generate hash
+        packsquash_version: latest-unstable
+        artifact_name: ${{ env.RELEASE_FILE }}
+        options: |
+          pack_directory = '.'
+          output_file_path = '${{ env.RELEASE_FILE }}'
+
+          zip_spec_conformance_level = 'disregard'
+
+          ['**/*?.{fsh,vsh,glsl}']
+          shader_source_transformation_strategy = 'keep_as_is'
+
+          ['**/*?.png']
+          downsize_if_single_color = false
+          skip_alpha_optimizations = true
+          color_quantization_target = 'none'
+
+    - name: Verify archive and generate hash
       run: |
         echo "Archive created successfully!"
         ls -la ${{ env.RELEASE_FILE }}
-        echo "Archive contents (first 20 entries):"
-        unzip -l ${{ env.RELEASE_FILE }} | head -20
         echo ""
         echo "Generating hashes..."
         echo "SHA256: $(sha256sum ${{ env.RELEASE_FILE }} | cut -d' ' -f1)"
