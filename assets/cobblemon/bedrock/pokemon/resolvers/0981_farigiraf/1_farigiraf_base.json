@@ -1,0 +1,27 @@
+{
+  "species": "cobblemon:farigiraf",
+  "order": 1,
+  "baseScale": 0.75,
+  "hitbox": {
+    "width": 0.5,
+    "height": 1,
+    "fixed": false
+  },
+  "variations": [
+    {
+      "aspects": ["flytrap"],
+      "poser": "cobblemon:farigiraf",
+      "model": "cobblemon:flytrap_farigiraf.geo",
+      "texture": "cobblemon:textures/pokemon/0981_farigiraf/flytrap_farigiraf.png",
+      "layers": [
+      ] 
+    },
+    {
+      "aspects": ["flytrap", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0981_farigiraf/flytrap_farigiraf.png",
+      "layers": [
+       
+      ]
+    }
+  ]
+}

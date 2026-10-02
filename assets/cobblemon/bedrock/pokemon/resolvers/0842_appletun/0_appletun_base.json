@@ -14,6 +14,19 @@
         "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/0842_appletun/appletun_shiny.png"
+    },
+    {
+      "aspects": ["birthday"],
+      "poser": "cobblemon:appletun",
+      "model": "cobblemon:birthday_appletun.geo",
+      "texture": "cobblemon:textures/pokemon/0842_appletun/birthday_appletun.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny", "birthday"
+      ],
+      "texture": "cobblemon:textures/pokemon/0842_appletun/birthday_appletun_shiny.png"
     }
   ]
 }

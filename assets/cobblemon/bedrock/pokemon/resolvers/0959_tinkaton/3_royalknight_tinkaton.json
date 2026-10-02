@@ -1,0 +1,24 @@
+{
+   "species":"cobblemon:tinkaton",
+   "order":3,
+   "variations":[
+      {
+         "aspects":[
+            "royalknight"
+         ],
+         "poser":"cobblemon:tinkaton",
+         "model":"cobblemon:royalknight_tinkaton.geo",
+         "texture":"cobblemon:textures/pokemon/0959_tinkaton/royalknight_tinkaton.png",
+         "layers":[]
+      },
+      {
+         "aspects":[
+            "royalknight" , "shiny"
+         ],
+        "poser":"cobblemon:tinkaton",
+         "model":"cobblemon:royalknight_tinkaton.geo",
+         "texture":"cobblemon:textures/pokemon/0959_tinkaton/royalknight_tinkaton_shiny.png",
+         "layers":[]
+      }
+   ]
+}
