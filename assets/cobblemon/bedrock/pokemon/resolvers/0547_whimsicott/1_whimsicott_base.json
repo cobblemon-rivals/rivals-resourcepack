@@ -5,6 +5,28 @@
     {
       "aspects": [],
       "poser": "cobblemon:whimsicott",
+      "model": "cobblemon:whimsicott.geo",
+      "texture": "cobblemon:textures/pokemon/0547_whimsicott/whimsicott.png",
+      "layers": [ 
+	  {
+
+        }
+		]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0547_whimsicott/whimsicott_shiny.png",
+      "layers": [
+	   {
+
+        }
+	  ]
+    },
+    {
+      "aspects": ["alien"],
+      "poser": "cobblemon:whimsicott",
       "model": "cobblemon:alien_whimsicott.geo",
       "texture": "cobblemon:textures/pokemon/0547_whimsicott/alien_whimsicott.png",
       "layers": [ 
@@ -15,7 +37,7 @@
     },
     {
       "aspects": [
-        "shiny"
+        "alien", "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/0547_whimsicott/alien_whimsicott.png",
       "layers": [
