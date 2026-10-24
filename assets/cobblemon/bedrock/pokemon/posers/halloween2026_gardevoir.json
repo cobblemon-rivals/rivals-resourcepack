@@ -1,0 +1,75 @@
+{
+  "rootBone": "gardevoir",
+  "portraitScale": 1.5,
+  "portraitTranslation": [
+    0,
+    1.5,
+    0
+  ],
+  "profileScale": 0.65,
+  "profileTranslation": [
+    0,
+    0.75,
+    0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('halloween2026_gardevoir', 'cry')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "transformTicks": 10,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('halloween2026_gardevoir', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('halloween2026_gardevoir', 'blink')"
+      ],
+      "isBattle": true
+    },
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "FLOAT",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "transformTicks": 10,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('halloween2026_gardevoir', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('halloween2026_gardevoir', 'blink')"
+      ],
+      "isBattle": false
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK",
+        "SWIM"
+      ],
+      "transformTicks": 10,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('halloween2026_gardevoir', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('halloween2026_gardevoir', 'blink')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "transformTicks": 10,
+      "animations": [
+        "q.bedrock('halloween2026_gardevoir', 'sleep')"
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "rootBone": "wooloo",
+  "portraitScale": 3.1,
+  "portraitTranslation": [
+    -0.85,
+    -1.8,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0,
+    0.4,
+    0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('halloween2026_wooloo', 'cry')",
+    "eat": "q.bedrock_primary('halloween2026_wooloo', 'eat', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "FLOAT",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE",
+        "SLEEP"
+      ],
+      "transformTicks": 10,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('halloween2026_wooloo', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('halloween2026_wooloo', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK",
+        "SWIM"
+      ],
+      "transformTicks": 10,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('halloween2026_wooloo', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('halloween2026_wooloo', 'blink')"
+      ]
+    }
+  }
+}

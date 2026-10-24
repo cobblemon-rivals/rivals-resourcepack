@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:wooloo",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "halloween2026"
+      ],
+      "poser": "cobblemon:halloween2026_wooloo",
+      "model": "cobblemon:halloween2026_wooloo.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/wooloo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "halloween2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:halloween2026_wooloo",
+      "model": "cobblemon:halloween2026_wooloo.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/wooloo_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/wooloo_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

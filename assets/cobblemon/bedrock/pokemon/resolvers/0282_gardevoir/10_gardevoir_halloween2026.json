@@ -1,0 +1,39 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "halloween2026"
+      ],
+      "poser": "cobblemon:halloween2026_gardevoir",
+      "model": "cobblemon:halloween2026_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/gardevoir.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/gardevoir_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "halloween2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:halloween2026_gardevoir",
+      "model": "cobblemon:halloween2026_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/gardevoir_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/gardevoir_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

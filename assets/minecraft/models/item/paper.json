@@ -27,6 +27,12 @@
       "predicate": {
         "custom_model_data": 124
       }
+    },
+    {
+      "model": "item/events/halloween2026/growlithe_ticket",
+      "predicate": {
+        "custom_model_data": 125
+      }
     }
     ]
 

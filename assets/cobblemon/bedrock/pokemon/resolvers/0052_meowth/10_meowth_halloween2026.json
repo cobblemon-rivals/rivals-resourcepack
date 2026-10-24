@@ -1,0 +1,84 @@
+{
+  "species": "cobblemon:meowth",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "halloween2026"
+      ],
+      "poser": "cobblemon:halloween2026_meowth",
+      "model": "cobblemon:halloween2026_meowth.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/meowth.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/meowth_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "halloween2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:halloween2026_meowth",
+      "model": "cobblemon:halloween2026_meowth.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/meowth_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/meowth_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "halloween2026",
+        "alpha"
+      ],
+      "poser": "cobblemon:halloween2026_meowth",
+      "model": "cobblemon:halloween2026_meowth.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/meowth.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/meowth_emissive.png",
+          "emissive": true,
+          "translucent": true
+        },
+        {
+          "name": "alpha",
+          "texture": "cobblemon:textures/pokemon/halloween2026/meowth_alpha.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "halloween2026",
+        "alpha",
+        "shiny"
+      ],
+      "poser": "cobblemon:halloween2026_meowth",
+      "model": "cobblemon:halloween2026_meowth.geo",
+      "texture": "cobblemon:textures/pokemon/halloween2026/meowth_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/halloween2026/meowth_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        },
+        {
+          "name": "alpha",
+          "texture": "cobblemon:textures/pokemon/halloween2026/meowth_alpha.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
