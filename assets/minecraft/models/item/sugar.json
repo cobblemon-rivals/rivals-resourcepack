@@ -474,6 +474,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6105
+      },
+      "model": "item/other/gym_badges/new_gym_badges/bug_type/bug_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6110
       },
       "model": "item/other/gym_badges/new_gym_badges/dark_type/dark_badge_custom1"
@@ -483,6 +489,12 @@
         "custom_model_data": 6111
       },
       "model": "item/other/gym_badges/new_gym_badges/dark_type/dark_badge_gen9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6112
+      },
+      "model": "item/other/gym_badges/new_gym_badges/dark_type/dark_badge_custom2"
     },
     {
       "predicate": {
@@ -720,6 +732,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6185
+      },
+      "model": "item/other/gym_badges/new_gym_badges/flying_type/flying_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6190
       },
       "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_custom1"
@@ -747,6 +765,12 @@
         "custom_model_data": 6194
       },
       "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_custom2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6195
+      },
+      "model": "item/other/gym_badges/new_gym_badges/ghost_type/ghost_badge_custom3"
     },
     {
       "predicate": {
@@ -936,6 +960,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6265
+      },
+      "model": "item/other/gym_badges/new_gym_badges/psychic_type/psychic_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6270
       },
       "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_custom1"
@@ -972,6 +1002,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6276
+      },
+      "model": "item/other/gym_badges/new_gym_badges/rock_type/rock_badge_custom2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6280
       },
       "model": "item/other/gym_badges/new_gym_badges/steel_type/steel_badge_gen2"
@@ -987,6 +1023,12 @@
         "custom_model_data": 6282
       },
       "model": "item/other/gym_badges/new_gym_badges/steel_type/steel_badge_gen9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6283
+      },
+      "model": "item/other/gym_badges/new_gym_badges/steel_type/steel_badge_custom1"
     },
     {
       "predicate": {
