@@ -79,6 +79,13 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/rivals_banner.png",
+            "ascent": 1,
+            "height": 64,
+            "chars": ["\ue900"]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/ranks/smp.png",
             "ascent": 7,
             "height": 7,
