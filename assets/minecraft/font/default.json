@@ -282,6 +282,20 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/red.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf03f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/blue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf040"]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/icons/champion_sprite.png",
             "ascent": 9,
             "height": 12,
