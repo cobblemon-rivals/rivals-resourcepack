@@ -67,15 +67,8 @@
             "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/ui/realms.png",
             "ascent": 13,
-            "height": 248,
+            "height": 124,
             "chars": [""]
-        },
-        {
-            "type": "bitmap",
-            "file": "cobblemonrivalsgui:gui/ui/realms_right.png",
-            "ascent": 13,
-            "height": 248,
-            "chars": [""]
         },
         {
             "type": "bitmap",
