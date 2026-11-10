@@ -296,6 +296,13 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/ranked.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf045"]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/icons/champion_sprite.png",
             "ascent": 9,
             "height": 12,
