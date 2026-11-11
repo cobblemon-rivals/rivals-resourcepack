@@ -303,6 +303,13 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/green.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf047"]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/servers/ranked.png",
             "ascent": 7,
             "height": 7,
