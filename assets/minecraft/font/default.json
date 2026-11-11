@@ -373,6 +373,27 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info_green.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info_yellow.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info_blue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/icons/rivals.png",
             "ascent": 7,
             "height": 7,
