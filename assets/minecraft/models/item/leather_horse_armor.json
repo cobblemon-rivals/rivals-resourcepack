@@ -21,6 +21,22 @@
   {"predicate":{"custom_model_data":501},"model": "item/cosmetics/hats/magikarp_shiny"},
   {"predicate":{"custom_model_data":502},"model": "item/cosmetics/hats/psyduck"},
   {"predicate":{"custom_model_data":503},"model": "item/cosmetics/hats/psyduck_shiny"},
+
+  {"predicate":{"custom_model_data":600},"model": "item/cosmetics/hats/winter2026/christmas_pikachu_hood"},
+  {"predicate":{"custom_model_data":601},"model": "item/cosmetics/hats/winter2026/pikachu_ears_santa_hat"},
+  {"predicate":{"custom_model_data":602},"model": "item/cosmetics/hats/winter2026/eevee_ears_santa_hat"},
+  {"predicate":{"custom_model_data":603},"model": "item/cosmetics/hats/winter2026/delibird_hood"},
+  {"predicate":{"custom_model_data":604},"model": "item/cosmetics/hats/winter2026/cubchoo_hat"},
+  {"predicate":{"custom_model_data":605},"model": "item/cosmetics/hats/winter2026/eiscue_ice_face"},
+  {"predicate":{"custom_model_data":606},"model": "item/cosmetics/hats/winter2026/galarian_darmanitan_hood"},
+  {"predicate":{"custom_model_data":607},"model": "item/cosmetics/hats/winter2026/christmas_jirachi_hat"},
+  {"predicate":{"custom_model_data":608},"model": "item/cosmetics/hats/winter2026/staryu_topper_christmas_tree_hat"},
+  {"predicate":{"custom_model_data":609},"model": "item/cosmetics/hats/winter2026/stantler_antlers_headband"},
+  {"predicate":{"custom_model_data":610},"model": "item/cosmetics/hats/winter2026/sawsbuck_antlers_headband"},
+  {"predicate":{"custom_model_data":611},"model": "item/cosmetics/hats/winter2026/furret_christmas_sock_scarf"},
+  {"predicate":{"custom_model_data":612},"model": "item/cosmetics/hats/winter2026/unite_alola_ninetales_hat"},
+  {"predicate":{"custom_model_data":613},"model": "item/cosmetics/hats/winter2026/unite_glaceon_hat"},
+  {"predicate":{"custom_model_data":614},"model": "item/cosmetics/hats/winter2026/holiday_extravaganza_hat"},
   {"predicate":{"custom_model_data":1000},"model": "item/placeables/scarecrow"}
 ]
 }
