@@ -1113,7 +1113,7 @@
     1.8082
    ],
    "rotation": {
-    "angle": -0.45788,
+    "angle": 0,
     "axis": "x",
     "origin": [
      3.23328,
@@ -1196,7 +1196,7 @@
     1.81843
    ],
    "rotation": {
-    "angle": 0.35854,
+    "angle": 0,
     "axis": "x",
     "origin": [
      3.23328,
@@ -1666,7 +1666,7 @@
     2.01
    ],
    "rotation": {
-    "angle": -0.45788,
+    "angle": 0,
     "axis": "x",
     "origin": [
      15.68756,
@@ -1749,7 +1749,7 @@
     2.01
    ],
    "rotation": {
-    "angle": 0.35854,
+    "angle": 0,
     "axis": "x",
     "origin": [
      15.38756,
