@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:dragonite",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:dragonite",
+      "model": "cobblemon:winter2026_dragonite.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/dragonite.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:dragonite",
+      "model": "cobblemon:winter2026_dragonite.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/dragonite_shiny.png",
+      "layers": []
+    }
+  ]
+}

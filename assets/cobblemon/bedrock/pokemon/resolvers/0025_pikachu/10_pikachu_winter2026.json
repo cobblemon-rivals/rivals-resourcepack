@@ -1,0 +1,40 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:winter2026_pikachu.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/pikachu.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:winter2026_pikachu.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/pikachu_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "female"
+      ],
+      "model": "cobblemon:winter2026_pikachu_female.geo"
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:winter2026_pikachu_female.geo"
+    }
+  ]
+}

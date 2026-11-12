@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:espeon",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:espeon",
+      "model": "cobblemon:winter2026_espeon.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/espeon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:espeon",
+      "model": "cobblemon:winter2026_espeon.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/espeon_shiny.png",
+      "layers": []
+    }
+  ]
+}

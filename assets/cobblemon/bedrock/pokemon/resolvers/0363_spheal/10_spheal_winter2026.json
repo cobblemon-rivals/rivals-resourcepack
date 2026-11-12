@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:spheal",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:spheal",
+      "model": "cobblemon:winter2026_spheal.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/spheal.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:spheal",
+      "model": "cobblemon:winter2026_spheal.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/spheal_shiny.png",
+      "layers": []
+    }
+  ]
+}

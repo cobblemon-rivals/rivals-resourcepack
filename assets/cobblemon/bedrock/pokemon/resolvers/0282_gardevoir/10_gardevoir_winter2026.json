@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:winter2026_gardevoir",
+      "model": "cobblemon:winter2026_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/gardevoir.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/winter2026/gardevoir_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:winter2026_gardevoir",
+      "model": "cobblemon:winter2026_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/gardevoir_shiny.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/winter2026/gardevoir_translucent.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

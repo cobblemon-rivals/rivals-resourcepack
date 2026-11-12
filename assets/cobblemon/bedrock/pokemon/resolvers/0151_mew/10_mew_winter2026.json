@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:mew",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:mew",
+      "model": "cobblemon:winter2026_mew.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/mew.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:mew",
+      "model": "cobblemon:winter2026_mew.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/mew_shiny.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:stantler",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:stantler",
+      "model": "cobblemon:winter2026_stantler.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/stantler.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:stantler",
+      "model": "cobblemon:winter2026_stantler.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/stantler_shiny.png",
+      "layers": []
+    }
+  ]
+}

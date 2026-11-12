@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:azumarill",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:winter2026_azumarill",
+      "model": "cobblemon:winter2026_azumarill.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/azumarill.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:winter2026_azumarill",
+      "model": "cobblemon:winter2026_azumarill.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/azumarill_shiny.png",
+      "layers": []
+    }
+  ]
+}
