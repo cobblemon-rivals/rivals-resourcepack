@@ -335,7 +335,9 @@
 					"cubes": [
 						{"origin": [2, 0, 3.5], "size": [0, 2, 2], "uv": [83, 96], "mirror": true}
 					]
-				}
+				},
+				{"name": "wings_closed", "parent": "noctowl", "pivot": [0, 0, 0]},
+				{"name": "wings_open", "parent": "noctowl", "pivot": [0, 0, 0]}
 			]
 		}
 	]
