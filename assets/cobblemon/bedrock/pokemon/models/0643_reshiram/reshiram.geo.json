@@ -576,7 +576,7 @@
 					]
 				},
 				{
-					"name": "body",
+					"name": "body", "locators": {"seat_1": [0, 75.15, 16]},
 					"parent": "mainthing",
 					"pivot": [-0.54425, 32.2719, 3.72771],
 					"cubes": [

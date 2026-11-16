@@ -193,7 +193,7 @@
 					]
 				},
 				{
-					"name": "belly",
+					"name": "belly", "locators": {"seat_1": [0, 82.28, 23.12]},
 					"parent": "middle",
 					"pivot": [-14, 14.5, 0],
 					"cubes": [

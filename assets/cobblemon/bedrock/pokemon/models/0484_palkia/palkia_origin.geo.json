@@ -358,7 +358,7 @@
 					]
 				},
 				{
-					"name": "chest",
+					"name": "chest", "locators": {"seat_1": [0, 126.31, -22.19]},
 					"parent": "torso4",
 					"pivot": [0, 73.05718, -33.27091],
 					"cubes": [

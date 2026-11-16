@@ -21,7 +21,7 @@
 					"pivot": [0, 8, 0]
 				},
 				{
-					"name": "head",
+					"name": "head", "locators": {"seat_1": [0, 24, -42]},
 					"parent": "body",
 					"pivot": [0, 8.5, -28],
 					"cubes": [
@@ -178,7 +178,7 @@
 					"pivot": [0, 8, -14]
 				},
 				{
-					"name": "boulder2",
+					"name": "boulder2", "locators": {"seat_2": [0, 16, -6]},
 					"parent": "segment2",
 					"pivot": [0, 8, -6],
 					"cubes": [

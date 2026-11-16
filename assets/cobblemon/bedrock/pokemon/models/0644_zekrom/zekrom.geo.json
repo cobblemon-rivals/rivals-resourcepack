@@ -424,7 +424,7 @@
 					]
 				},
 				{
-					"name": "bumble",
+					"name": "bumble", "locators": {"seat_1": [0, 75.26, 12.29]},
 					"parent": "tailseg1",
 					"pivot": [-38.33917, 33.66911, -8.71272],
 					"rotation": [0, 0, 2.5],

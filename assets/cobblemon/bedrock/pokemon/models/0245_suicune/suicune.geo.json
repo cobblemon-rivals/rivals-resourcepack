@@ -172,7 +172,7 @@
 					"pivot": [0, 23, 7]
 				},
 				{
-					"name": "chest",
+					"name": "chest", "locators": {"seat_1": [0, 31.59, -6.84]},
 					"parent": "torso",
 					"pivot": [0, 21.08579, -3.34315],
 					"rotation": [45, 0, 0],

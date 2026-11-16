@@ -16,7 +16,7 @@
 					"pivot": [0, 0, 0]
 				},
 				{
-					"name": "torso",
+					"name": "torso", "locators": {"seat_1": [0, 21.6, 4.5]},
 					"parent": "seismitoad",
 					"pivot": [0, 0, 0],
 					"cubes": [

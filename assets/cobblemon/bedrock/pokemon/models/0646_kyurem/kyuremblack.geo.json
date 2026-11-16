@@ -183,7 +183,7 @@
 					]
 				},
 				{
-					"name": "torso",
+					"name": "torso", "locators": {"seat_1": [0, 81.12, 19.44]},
 					"parent": "bodymain",
 					"pivot": [-0.64099, 31.92362, -2.10782],
 					"rotation": [-10, 0, 0],

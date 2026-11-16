@@ -33,7 +33,7 @@
           ]
         },
         {
-          "name": "torso",
+          "name": "torso", "locators": {"seat_1": [0, 32, -18]},
           "parent": "body",
           "pivot": [
             0,
@@ -1832,7 +1832,7 @@
           ]
         },
         {
-          "name": "body_rear",
+          "name": "body_rear", "locators": {"seat_2": [0, 29, 0]},
           "parent": "body",
           "pivot": [
             0,

@@ -16,7 +16,7 @@
 					"pivot": [0, 0, 0]
 				},
 				{
-					"name": "body",
+					"name": "body", "locators": {"seat_1": [0, 15.5, -3]},
 					"parent": "cresselia",
 					"pivot": [0, 0, 0],
 					"cubes": [
