@@ -37,6 +37,13 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/research.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/ui/itemshop.png",
             "ascent": 23,
             "height": 256,
