@@ -21,7 +21,7 @@
 					"pivot": [0, 18, 1]
 				},
 				{
-					"name": "body",
+					"name": "body", "locators": {"seat_1": [0, 24.47, -8.4]},
 					"parent": "torso",
 					"pivot": [-0.30319, 19, -7.5],
 					"rotation": [-2.5, 0, 0],

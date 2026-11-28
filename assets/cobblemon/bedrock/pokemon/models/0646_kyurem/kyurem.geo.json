@@ -275,7 +275,7 @@
 					]
 				},
 				{
-					"name": "body1",
+					"name": "body1", "locators": {"seat_1": [0, 43.75, 30.25]},
 					"parent": "bodymain",
 					"pivot": [-8.5, 32.75, 23.25],
 					"cubes": [

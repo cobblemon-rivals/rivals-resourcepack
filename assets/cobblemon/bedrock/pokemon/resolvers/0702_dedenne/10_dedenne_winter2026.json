@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:dedenne",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:dedenne",
+      "model": "cobblemon:winter2026_dedenne.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/dedenne.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:dedenne",
+      "model": "cobblemon:winter2026_dedenne.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/dedenne_shiny.png",
+      "layers": []
+    }
+  ]
+}

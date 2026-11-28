@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:clefable",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:clefable",
+      "model": "cobblemon:winter2026_clefable.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/clefable.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:clefable",
+      "model": "cobblemon:winter2026_clefable.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/clefable_shiny.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:glaceon",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "winter2026"
+      ],
+      "poser": "cobblemon:glaceon",
+      "model": "cobblemon:winter2026_glaceon.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/glaceon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "winter2026",
+        "shiny"
+      ],
+      "poser": "cobblemon:glaceon",
+      "model": "cobblemon:winter2026_glaceon.geo",
+      "texture": "cobblemon:textures/pokemon/winter2026/glaceon_shiny.png",
+      "layers": []
+    }
+  ]
+}

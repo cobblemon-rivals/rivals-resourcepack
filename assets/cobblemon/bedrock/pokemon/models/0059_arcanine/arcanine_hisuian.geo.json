@@ -21,7 +21,7 @@
 					"pivot": [0, -1, 0]
 				},
 				{
-					"name": "torso",
+					"name": "torso", "locators": {"seat_1": [0, 21, 1]},
 					"parent": "body",
 					"pivot": [0.5, 16, 7],
 					"cubes": [

@@ -6,20 +6,52 @@
 			"animation_length": 4.6569,
 			"bones": {
 				"brazo_derecho": {
-					"rotation": [0, -67.5, 0],
-					"position": [0, 0, 2]
+					"rotation": [
+						0,
+						-67.5,
+						0
+					],
+					"position": [
+						0,
+						0,
+						2
+					]
 				},
 				"brazo_izquierdo": {
-					"rotation": [0, 70, 0],
-					"position": [0, 0, 2]
+					"rotation": [
+						0,
+						70,
+						0
+					],
+					"position": [
+						0,
+						0,
+						2
+					]
 				},
 				"pierna_derecha": {
-					"rotation": [7.5, 0, 0],
-					"position": [0, 0, 1]
+					"rotation": [
+						7.5,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						1
+					]
 				},
 				"pierna_izquierda": {
-					"rotation": [7.5, 0, 0],
-					"position": [0, 0, 1]
+					"rotation": [
+						7.5,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						1
+					]
 				}
 			}
 		},
@@ -28,27 +60,250 @@
 			"animation_length": 4.6569,
 			"bones": {
 				"mothim": {
-					"rotation": [25, 0, 0]
+					"rotation": [
+						25,
+						0,
+						0
+					]
 				},
 				"cabeza2": {
-					"rotation": [-20, 0, 0],
-					"position": [0, 0, -7]
+					"rotation": [
+						-20,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						-7
+					]
 				},
 				"brazo_derecho": {
-					"rotation": [0, -67.5, 0],
-					"position": [0, 0, 2]
+					"rotation": [
+						0,
+						-67.5,
+						0
+					],
+					"position": [
+						0,
+						0,
+						2
+					]
 				},
 				"brazo_izquierdo": {
-					"rotation": [0, 70, 0],
-					"position": [0, 0, 2]
+					"rotation": [
+						0,
+						70,
+						0
+					],
+					"position": [
+						0,
+						0,
+						2
+					]
 				},
 				"pierna_derecha": {
-					"rotation": [7.5, 0, 0],
-					"position": [0, 0, 1]
+					"rotation": [
+						7.5,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						1
+					]
 				},
 				"pierna_izquierda": {
-					"rotation": [7.5, 0, 0],
-					"position": [0, 0, 1]
+					"rotation": [
+						7.5,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						1
+					]
+				}
+			}
+		},
+		"animation.mothim.blink": {
+			"animation_length": 0.1667,
+			"bones": {
+				"eye_closed_left": {
+					"position": {
+						"0.0": [
+							0,
+							0,
+							-0.1
+						],
+						"0.125": {
+							"post": [
+								0,
+								0,
+								-0.1
+							],
+							"pre": [
+								0,
+								0,
+								-0.1
+							]
+						},
+						"0.1667": {
+							"post": [
+								0,
+								0,
+								-0.1
+							],
+							"pre": [
+								0,
+								0,
+								-0.1
+							]
+						}
+					}
+				},
+				"eye_closed_right": {
+					"position": {
+						"0.0": [
+							0,
+							0,
+							-0.1
+						],
+						"0.125": {
+							"post": [
+								0,
+								0,
+								-0.1
+							],
+							"pre": [
+								0,
+								0,
+								-0.1
+							]
+						},
+						"0.1667": {
+							"post": [
+								0,
+								0,
+								-0.1
+							],
+							"pre": [
+								0,
+								0,
+								-0.1
+							]
+						}
+					}
+				},
+				"eye_open_left": {
+					"position": {
+						"0.0": [
+							0,
+							0,
+							0.1
+						],
+						"0.125": {
+							"post": [
+								0,
+								0,
+								0.1
+							],
+							"pre": [
+								0,
+								0,
+								0.1
+							]
+						},
+						"0.1667": {
+							"post": [
+								0,
+								0,
+								0
+							],
+							"pre": [
+								0,
+								0,
+								0.1
+							]
+						}
+					}
+				},
+				"eye_open_right": {
+					"position": {
+						"0.0": [
+							0,
+							0,
+							0.1
+						],
+						"0.125": {
+							"post": [
+								0,
+								0,
+								0.1
+							],
+							"pre": [
+								0,
+								0,
+								0.1
+							]
+						},
+						"0.1667": {
+							"post": [
+								0,
+								0,
+								0
+							],
+							"pre": [
+								0,
+								0,
+								0.1
+							]
+						}
+					}
+				},
+				"eyes_blink_ditto": {
+					"position": {
+						"0.0": [
+							0,
+							0,
+							-0.1
+						],
+						"0.1667": {
+							"post": [
+								0,
+								0,
+								0
+							],
+							"pre": [
+								0,
+								0,
+								-0.1
+							]
+						}
+					}
+				},
+				"eyes_ditto": {
+					"position": {
+						"0.0": [
+							0,
+							0,
+							0.1
+						],
+						"0.1667": {
+							"post": [
+								0,
+								0,
+								0
+							],
+							"pre": [
+								0,
+								0,
+								0.1
+							]
+						}
+					}
 				}
 			}
 		}

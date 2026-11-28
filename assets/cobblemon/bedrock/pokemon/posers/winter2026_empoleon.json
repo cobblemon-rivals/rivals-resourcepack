@@ -1,0 +1,208 @@
+{
+  "animations": {
+    "cry": "q.bedrock_stateful('empoleon', 'cry')",
+    "recoil": "q.bedrock_stateful('winter2026_empoleon', 'recoil')"
+  },
+  "portraitScale": 1.65,
+  "portraitTranslation": [
+    -0.13,
+    2.54,
+    0
+  ],
+  "poses": {
+    "battle-standing": {
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('winter2026_empoleon', 'battle_idle_old')"
+      ],
+      "isBattle": true,
+      "poseName": "battle-standing",
+      "poseTypes": [
+        "STAND"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('winter2026_empoleon', 'blink')"
+      ],
+      "transformedParts": [
+        {
+          "part": "arm_left",
+          "rotation": [
+            0,
+            -12.5,
+            52.5
+          ]
+        },
+        {
+          "part": "arm_right",
+          "rotation": [
+            0,
+            12.5,
+            -52.5
+          ]
+        }
+      ]
+    },
+    "floating": {
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('winter2026_empoleon', 'water_idle_old')"
+      ],
+      "poseName": "floating",
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('winter2026_empoleon', 'blink')"
+      ],
+      "transformedParts": [
+        {
+          "part": "arm_left",
+          "rotation": [
+            0,
+            -12.5,
+            52.5
+          ]
+        },
+        {
+          "part": "arm_right",
+          "rotation": [
+            0,
+            12.5,
+            -52.5
+          ]
+        }
+      ]
+    },
+    "sleeping": {
+      "animations": [
+        "q.bedrock('winter2026_empoleon', 'sleep_old')"
+      ],
+      "poseName": "sleeping",
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "transformedParts": [
+        {
+          "part": "arm_left",
+          "rotation": [
+            0,
+            -12.5,
+            52.5
+          ]
+        },
+        {
+          "part": "arm_right",
+          "rotation": [
+            0,
+            12.5,
+            -52.5
+          ]
+        }
+      ]
+    },
+    "standing": {
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('winter2026_empoleon', 'ground_idle_old')"
+      ],
+      "isBattle": false,
+      "poseName": "standing",
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('winter2026_empoleon', 'blink')"
+      ],
+      "transformedParts": [
+        {
+          "part": "arm_left",
+          "rotation": [
+            0,
+            -12.5,
+            52.5
+          ]
+        },
+        {
+          "part": "arm_right",
+          "rotation": [
+            0,
+            12.5,
+            -52.5
+          ]
+        }
+      ]
+    },
+    "swimming": {
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('winter2026_empoleon', 'water_swim_old')"
+      ],
+      "poseName": "swimming",
+      "poseTypes": [
+        "SWIM"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('winter2026_empoleon', 'blink')"
+      ],
+      "transformedParts": [
+        {
+          "part": "arm_left",
+          "rotation": [
+            0,
+            -12.5,
+            52.5
+          ]
+        },
+        {
+          "part": "arm_right",
+          "rotation": [
+            0,
+            12.5,
+            -52.5
+          ]
+        }
+      ]
+    },
+    "walking": {
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('winter2026_empoleon', 'ground_walk_old')"
+      ],
+      "poseName": "walking",
+      "poseTypes": [
+        "WALK"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('winter2026_empoleon', 'blink')"
+      ],
+      "transformedParts": [
+        {
+          "part": "arm_left",
+          "rotation": [
+            0,
+            -12.5,
+            52.5
+          ]
+        },
+        {
+          "part": "arm_right",
+          "rotation": [
+            0,
+            12.5,
+            -52.5
+          ]
+        }
+      ]
+    }
+  },
+  "profileScale": 0.44,
+  "profileTranslation": [
+    0,
+    1.02,
+    0
+  ],
+  "rootBone": "empoleon"
+}

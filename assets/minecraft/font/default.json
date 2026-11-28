@@ -66,9 +66,16 @@
         {
             "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/ui/realms.png",
-            "ascent": 40,
-            "height": 256,
+            "ascent": 33,
+            "height": 152,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/realms_right.png",
+            "ascent": 33,
+            "height": 152,
+            "chars": ["\uf046"]
         },
         {
             "type": "bitmap",
@@ -76,6 +83,13 @@
             "ascent": 1,
             "height": 64,
             "chars": ["𓂅"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/rivals_banner.png",
+            "ascent": 1,
+            "height": 64,
+            "chars": ["\ue900"]
         },
         {
             "type": "bitmap",
@@ -275,6 +289,34 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/red.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf03f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/blue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/green.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf047"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/ranked.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uf045"]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/icons/champion_sprite.png",
             "ascent": 9,
             "height": 12,
@@ -328,6 +370,27 @@
             "ascent": 7,
             "height": 7,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info_green.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info_yellow.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info_blue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
         },
         {
             "type": "bitmap",

@@ -21,7 +21,7 @@
 					"pivot": [-0.0085, 19.03098, -2.34286]
 				},
 				{
-					"name": "body",
+					"name": "body", "locators": {"seat_1": [0, 26, 0]},
 					"parent": "root",
 					"pivot": [-0.0085, 19.03098, -2.34286],
 					"cubes": [
